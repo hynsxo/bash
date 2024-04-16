@@ -9,8 +9,5 @@ class FourCal:
 		result = self.first + self.second
 		return result
 	def sub(self)
-		result = self.first - self.second
-		return result
-	def mul(self)
-		result = self.first * self.second
+		result = self.first + self.second
 		return result
